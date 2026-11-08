@@ -22,10 +22,9 @@
 | 项目 | 简介 |
 | :--- | :--- |
 | [**FeedChamber**](https://github.com/NoelOrin/FeedChamber) | 可自托管的社区论坛：Iris 后端 + React 19 前端，内建成长体系、可见性门控、四种审核模式与双向 MCP 能力。一条 `docker compose` 跑起来。<br/>`Go` · `React 19` · `MCP` · [文档](https://noelorin.github.io/FeedChamber/) |
-| [**GOSpeak**](https://github.com/NoelOrin/GOSpeak) | 部署灵活的游戏语音平台：LiveKit / SRS / Agora / Cloudflare Realtime 多 SFU 运行时切换，支持自建 SFU、SQLite 渐进式数据库与 RBAC 权限。<br/>`Go` · `WebRTC` · `Docker` · [文档](https://noelorin.github.io/GOSpeak/) |
+| [**GOSpeak**](https://github.com/NoelOrin/GOSpeak) | 部署灵活的游戏语音平台。<br/>`Go` · `WebRTC` · `Docker` · [文档](https://noelorin.github.io/GOSpeak/) |
 | [**resume-studio**](https://github.com/NoelOrin/resume-studio) | 多模板简历编辑器：vinext + React 19 可视化编辑，Tauri 桌面版（macOS / Windows），内置 moonlight & quiet 两套模板。<br/>`TypeScript` · `React 19` · `Tauri` |
 | [**apex-cfg-editor**](https://github.com/NoelOrin/apex-cfg-editor) | Apex Legends 配置编辑器：内置按键文档、实时左右对照 diff、备份与还原，改 cfg 不用再靠记事本。<br/>`Dart` · `Flutter` |
-| [**GameSpeak**](https://github.com/NoelOrin/GameSpeak) | Electron + Vue 的游戏语音服务，Web / 桌面双端。正在重构中。<br/>`Vue` · `Electron` |
 | [**astrbot_plugin_webchat**](https://github.com/NoelOrin/astrbot_plugin_webchat) | 为 AstrBot 做的 Web 聊天插件（开发中）。<br/>`Python` |
 
 ---
