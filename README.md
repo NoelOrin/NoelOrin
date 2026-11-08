@@ -31,11 +31,6 @@
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=NoelOrin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=22d3ee&text_color=8b949e&rank_icon=github" alt="NoelOrin 的 GitHub 统计" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelOrin&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=8b949e" alt="最常用的语言" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=NoelOrin&hide_border=true&background=00000000&stroke=8b5cf64d&ring=8b5cf6&fire=22d3ee&currStreakLabel=8b949e&sideLabels=8b949e&dates=52525b&currStreakNum=e4e4e7&sideNums=e4e4e7" alt="连续贡献" />
 
 </div>
