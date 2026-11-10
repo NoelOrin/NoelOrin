@@ -41,6 +41,4 @@
 
 **BE ANYONE.**
 
-<sub>愿你我都能成为想成为的任何人 · Built with ❤️ and too much coffee</sub>
-
 </div>
